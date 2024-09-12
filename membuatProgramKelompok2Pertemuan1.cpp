@@ -13,7 +13,9 @@ int main() {
     for (i = 1; i <= n; i++) {
             cout << "masukkan nilai ke-"<< i << " : ";\
             cin >> a;
+             if (a%2 == 0) {
             t += a;
+        }
     }
 
     cout << "\nJumlahnya adalah : " << t << endl;
