@@ -6,10 +6,10 @@ int main() {
 
     int i, n, t;
 
-    cout << "masukkan anggka awal: ";
+    cout << "masukkan angka batas awal: ";
     cin >> n;
 
-    cout << "masukkan angka akhir: ";
+    cout << "masukkan angka batas akhir: ";
     cin >> i;
 
     cout << endl;
