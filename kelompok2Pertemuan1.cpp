@@ -21,6 +21,6 @@ int main() {
         }
     }
 
-    cout << "\ntotal : " << t << endl;
+    cout << "\nJumlah : " << t << endl;
     return 0;
 }
